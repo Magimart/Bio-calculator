@@ -1,0 +1,52 @@
+[
+  {
+     
+      "learnNumbers": "numbers",
+       "counts" : [
+                    {
+                      "toTen": [
+                        {"number": 1, "inWord": "one"}, {"number": 2, "inWord": "two"}, {"number": 3, "inWord": "three"},
+                        {"number": 4, "inWord": "four"}, {"number": 5, "inWord": "five"}, {"number": 6, "inWord": "six"},
+                        {"number": 7, "inWord": "seven"}, {"number": 8, "inWord": "eight"}, {"number": 9, "inWord": "nine"},
+                        {"number": 10, "inWord": "ten"}
+                      ]
+                    }                   
+         ] ,
+        "puzzleWithNumbers": [],
+        "sum": [],
+        "subract": [],
+        "divission": [],
+        "multiply": []    
+    }, 
+    {
+        "learnLetters":"letters",
+        "letters" : [
+                
+                 {
+                     "vowels": [
+                      {"letter": "a", "sound": " "}, {"letter": "e", "sound": " "}, {"letter": "i", "sound": " "}, {"letter": "o", "sound": " "}, {"letter": "u", "sound": " "}
+                   ] 
+                  },
+                  {
+                    "alphabet": [
+                            {"letter": "A", "sound": " "}, {"letter": "B", "sound": " "}, {"letter": "C", "sound": ""}, {"letter": "D", "sound": ""}, {"letter": "E", "sound": " "}, {"letter": "F", "sound": " "},
+                            {"letter": "G", "sound": " "}, {"letter": "H", "sound": " "}, {"letter": "I", "sound": ""}, {"letter": "J", "sound": " "}, {"letter": "K", "sound": " "},
+                            {"letter": "L", "sound": " "}, {"letter": "M", "sound": " "}, {"letter": "N", "sound": ""}, {"letter": "O", "sound": " "}, {"letter": "P", "sound": " "},
+                            {"letter": "Q", "sound": " "}, {"letter": "R", "sound": " "}, {"letter": "S", "sound": ""}, {"letter": "T", "sound": " "}, {"letter": "U", "sound": " "},
+                            {"letter": "V", "sound": " "}, {"letter": "W", "sound": " "}, {"letter": "X", "sound": ""}, {"letter": "Y", "sound": " "}, {"letter": "Z", "sound": " "}
+                    ]    
+                  }                                 
+       ] 
+    }
+
+
+   
+]
+
+
+
+
+
+
+
+
